@@ -1,8 +1,8 @@
 import React from "react";
-import facebook from '../assets/socials/facebook.png';
-import github from '../assets/socials/github.png';
-import twitter from '../assets/socials/twitter.png';
-import linkedin from '../assets/socials/linkedin.png';
+import facebook from '../../public/assets/socials/facebook.png';
+import github from '../../public/assets/socials/github.png';
+import twitter from '../../public/assets/socials/twitter.png';
+import linkedin from '../../public/assets/socials/linkedin.png';
 
 const Footer = () => {
   let date = new Date();

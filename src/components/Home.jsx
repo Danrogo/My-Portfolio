@@ -1,9 +1,9 @@
 import { Typewriter } from 'react-simple-typewriter';
 import { motion } from 'framer-motion';
-import ME from '../assets/me.jpg';
-import ME3 from '../assets/ME3.jpg';
-import ME2 from '../assets/ME2.jpg';
-import ME4 from '../assets/ME4.jpg';
+import ME from '../../public/assets/ME.jpg';
+import ME3 from '../../public/assets/ME3.jpg';
+import ME2 from '../../public/assets/ME2.jpg';
+import ME4 from '../../public/assets/ME4.jpg';
 
 
 const images = [ME4, ME, ME2, ME3];

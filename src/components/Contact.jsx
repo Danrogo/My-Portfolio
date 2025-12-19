@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 // import emailjs from "emailjs-com";
-import github from '../assets/socials/github.png';
-import linkedin from '../assets/socials/linkedin.png';
+import github from '../../public/assets/socials/github.png';
+import linkedin from '../../public/assets/socials/linkedin.png';
 import emailjs from "@emailjs/browser";
 
 const Contact = () => {

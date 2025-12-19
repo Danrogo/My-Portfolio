@@ -1,6 +1,6 @@
 import React from "react";
-import Teach2give from '../assets/icons/teach2give.jpg';
-import UOEM from '../assets/icons/UOEM.png';
+import Teach2give from '../../public/assets/icons/Teach2give.jpg';
+import UOEM from '../../public/assets/icons/UOEM.png';
 
 const About = () => {
   const education = [

@@ -1,8 +1,8 @@
 import React from "react";
-import Recipe from '../assets/projects/Recipe.png';
-import Carrental from '../assets/projects/Carrental.png';
-import Restaurant from '../assets/projects/Restaurant.png';
-import Calculator from '../assets/projects/Calculator.png';
+import Recipe from '../../public/assets/projects/Recipe.png';
+import Carrental from '../../public/assets/projects/Carrental.png';
+import Restaurant from '../../public/assets/projects/Restaurant.png';
+import Calculator from '../../public/assets/projects/Calculator.png';
 const Projects = () => {
   const projects = [
      
